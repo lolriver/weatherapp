@@ -248,3 +248,6 @@ For issues or questions:
 ---
 
 Made with ❤️ for weather enthusiasts worldwide
+
+## Last Updated
+This repository was recently updated with dependency fixes.
